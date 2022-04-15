@@ -1,5 +1,5 @@
 # WIH bot for Discord servers.
-# Developed by M.T.N. in August/September 2021.
+# Developed by Tadashi in August/September 2021.
 # Made with Python 3.7...I think. I don't remember LOL
 # This is free software, use as you wish.
 # I probably won't maintain this, as I no longer use Discord.
