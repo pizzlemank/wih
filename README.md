@@ -26,8 +26,8 @@ These next steps are all done within the terminal.
     - This installs the scripts used to be able to connect the bot to Discord.
     - If this doesn't work, search engines and forums are your friends.
 
-5. Go to the folder that WIH.py is in. (Stuck? Look up the cd command how-to guides.)
+5. Go to the folder that wih.py is in. (Stuck? Look up the cd command how-to guides.)
 
-6. Type in "python WIH.py" or "python3 WIH.py" and hit enter.
+6. Type in "python wih.py" or "python3 wih.py" and hit enter.
 
 Have fun!
